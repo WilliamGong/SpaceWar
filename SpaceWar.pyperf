@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>55a75093-f49e-49cc-baf0-c5a1b1a3f2cc</TargetProject>
+    <FriendlyName>SpaceWar</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\gtl11\AppData\Local\Temp\SpaceWar_20171021(1).vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
